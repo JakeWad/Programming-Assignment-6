@@ -2,7 +2,7 @@ Lewis University SP23-CPSC-46000-LT1-Programming Languages
 
 Programming-Assignment-6
 
-	1.Write a Python program that matches a string that has an a followed by zero or more b's.
+1.Write a Python program that matches a string that has an a followed by zero or more b's.
 
  			Sample Output :
 
@@ -20,7 +20,7 @@ Programming-Assignment-6
 
 			uuuuuu not matched!
 
- 	2.Write a Python program to find the sequences of one upper case letter followed by lower case letters.
+ 2.Write a Python program to find the sequences of one upper case letter followed by lower case letters.
  
 		Sample Output :
 
@@ -36,7 +36,7 @@ Programming-Assignment-6
 
 			Aa has a match!
 
- 	3.Write a Python program that matches a word containing 'z'.
+ 3.Write a Python program that matches a word containing 'z'.
  
 		Sample Output:
 		
@@ -48,7 +48,7 @@ Programming-Assignment-6
 
 			UC Berkeley courses use Piazza has a match
 
- 	4.Write a Python program to check for a number at the end of a string.
+ 4.Write a Python program to check for a number at the end of a string.
  
 		Sample Output:
 
