@@ -4,7 +4,7 @@ Programming-Assignment-6
 
 	1.Write a Python program that matches a string that has an a followed by zero or more b's.
 
- 		Sample Output :
+ 			Sample Output :
 
 			ac has a match!
 
